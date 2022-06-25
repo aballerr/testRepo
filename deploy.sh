@@ -1,5 +1,5 @@
 # https://docs.aws.amazon.com/cli/latest/reference/lambda/update-function-code.html
-
+# hi
     declare -a arr=("tser-fun" "tser-fun2")
     zip lambdas.zip lambda-functions/*
 
